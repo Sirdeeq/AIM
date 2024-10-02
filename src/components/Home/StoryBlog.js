@@ -5,7 +5,7 @@ import React from 'react';
 import pic1 from './../../assets/images/gallery/WhatsApp Unknown 2024-10-02 at 11.38.15 AM/1.jpeg';
 import pic2 from './../../assets/images/gallery/WhatsApp Unknown 2024-10-02 at 11.38.15 AM/11.jpeg';
 import pic3 from './../../assets/images/gallery/WhatsApp Unknown 2024-10-02 at 11.38.15 AM/24.jpeg';
-import avatar from './../../assets/images/logo.png';
+import avatar from './../../assets/images/aim/basovca logo.png';
 
 const StoryBlog = () => {
     function isScrolledIntoView(elem){
