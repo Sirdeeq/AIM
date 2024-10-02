@@ -102,7 +102,7 @@ const RecentProjectsSlider = () => {
                   </div>
                   <div className="author-content">
                     <div className="author-head">
-                      <h6 className="author-name">AIM</h6>
+                      <h6 className="author-name">SAIKURE</h6>
                       <ul className="rating-list">
                         <li>
                           <i className="fa fa-star"></i>

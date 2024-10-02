@@ -61,7 +61,7 @@ const ComingSoon = () => {
 	
     return (
         <>
-            <div className="coming-soon background-luminosity" data-text="AIM" style={{backgroundImage: "url("+ require('../assets/images/background/bg1.jpg') + ")"}}>
+            <div className="coming-soon background-luminosity" data-text="SAIKURE" style={{backgroundImage: "url("+ require('../assets/images/background/bg1.jpg') + ")"}}>
                 <div className="inner-content">
                     <div className="logo-header logo-dark">
                         <Link to={"/"}><img src={logo} alt="" /></Link>

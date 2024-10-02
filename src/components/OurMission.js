@@ -23,7 +23,7 @@ const OurMission = () =>{
                 <div className="section-head">
                     <h5 className="sub-title">About us</h5>
                     <h2>Empowering Orphans and Vulnerable Children</h2>
-                    <p className="m-t20">At the Bauchi State AHMAD IBRAHIM MUHAMMAD , our mission is to provide support and create opportunities for a brighter future for children in need. Through our dedicated programs and compassionate care, we focus on addressing the unique challenges faced by orphans and vulnerable children in our community. By fostering hope and resilience, we AIM to build a foundation where every child can thrive and reach their full potential.</p>
+                    <p className="m-t20">At the Bauchi State AHMAD IBRAHIM MUHAMMAD , our mission is to provide support and create opportunities for a brighter future for children in need. Through our dedicated programs and compassionate care, we focus on addressing the unique challenges faced by orphans and vulnerable children in our community. By fostering hope and resilience, we SAIKURE to build a foundation where every child can thrive and reach their full potential.</p>
                 </div>
                 <div className="row">
                     {CounterBlog.map((item, index)=>(

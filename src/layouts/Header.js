@@ -120,7 +120,7 @@ const Header = () => {
                     <i className="fas fa-map-marker-alt"></i> +234-091-3312
                   </li>
                   <li>
-                    <i className="fas fa-envelope"></i>support@AIM.com
+                    <i className="fas fa-envelope"></i>support@SAIKURE.com
                   </li>
                 </ul>
               </div>

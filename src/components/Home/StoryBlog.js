@@ -90,7 +90,7 @@ const StoryBlog = () => {
                     <div className="dz-content wow fadeInUp" data-wow-delay="0.4s">
                         <h3 className="title m-b15">Empowerment Program for HHS 2022</h3>
                         <p className="m-b0">
-                        In 2022, Ahmad Ibrahim Muhammad launched another successful program aimed at equipping individuals with skills to improve their livelihoods. This program laid the foundation for sustainable development among the participants.
+                        In 2022, Ahmad Ibrahim Muhammad launched another successful program SAIKUREed at equipping individuals with skills to improve their livelihoods. This program laid the foundation for sustainable development among the participants.
                         </p>
                         <div className="fund-count m-t30 m-md-t20">
                             <div className="icon-content">
@@ -135,7 +135,7 @@ const StoryBlog = () => {
                     <div className="dz-content wow fadeInUp" data-wow-delay="0.4s">
                         <h3 className="title m-b15">Ongoing Training for Community Members</h3>
                         <p className="m-b0">
-                        Currently, Ahmad Ibrahim Muhammad is spearheading a training program to equip community members with technical skills. This initiative aims to reduce unemployment and foster self-reliance among the vulnerable.
+                        Currently, Ahmad Ibrahim Muhammad is spearheading a training program to equip community members with technical skills. This initiative SAIKUREs to reduce unemployment and foster self-reliance among the vulnerable.
                         </p>
                         <div className="fund-count m-t30 m-md-t20">
                             <div className="icon-content">

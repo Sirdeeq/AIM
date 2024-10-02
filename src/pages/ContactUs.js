@@ -58,7 +58,7 @@ const ContactUs = () => {
     <>
       <div className="page-content bg-white">
         {/* Page Banner */}
-        <PageBanner maintitle="Contact AIM" pagetitle="Get in Touch" background={bg} />
+        <PageBanner maintitle="Contact SAIKURE" pagetitle="Get in Touch" background={bg} />
 
         {/* Contact Details Section */}
         <section className="content-inner-1 bg-light section-pattren1">

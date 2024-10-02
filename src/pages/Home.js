@@ -36,7 +36,7 @@ const Home = () => {
                         <div className="row banner-inner">
                             <div className="col-lg-8 col-md-7">
                                 <div className="banner-content">
-                                    <h5 className="sub-title text-primary">AIM</h5>
+                                    <h5 className="sub-title text-primary">SAIKURE</h5>
                                     <h1 className="title">
                                         AHMAD IBRAHIM MUHAMMAD
                                     </h1>

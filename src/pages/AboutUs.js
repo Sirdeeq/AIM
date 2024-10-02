@@ -45,7 +45,7 @@ const AboutUs = () => {
                             <div className="col-lg-7">
                                 <div className="section-head">
                                     <h5 className="sub-title">Who We Are</h5>
-                                    <h2>ABOUT AIM</h2>
+                                    <h2>ABOUT SAIKURE</h2>
                                     <p className="m-t20">Ahmad Ibrahim Muhammad is a visionary political figure with a strong commitment to public service, governance, and community development. His vast experience across various leadership roles in politics and government institutions has shaped his unwavering dedication to enhancing social justice and equitable access to essential services in Nigeria.</p>
                                 </div>
                                 {iconBlog.map((data, index) => (
@@ -131,12 +131,12 @@ const AboutUs = () => {
                                 <div className="col-lg-8">
                                     <div className="dz-info">
                                         <h2 className="title m-b30 m-md-b20">About Haj.Yalwa T Balewa</h2>
-                                        <h5 className="title m-b30 m-md-b20">The Executive Chairperson AIM Bauchi</h5>
+                                        <h5 className="title m-b30 m-md-b20">The Executive Chairperson SAIKURE Bauchi</h5>
                                      
                                         <div className="signature">
                                             
-                                            <p className="text-dark m-t15 mb-0"> The Executive Chairperson of the Bauchi State AHMAD IBRAHIM MUHAMMAD  (AIM) is a dedicated leader focused on improving the lives of orphans and vulnerable children in Bauchi State. With a background in child welfare and community development, the Chairperson is committed to creating a safe environment where every child can thrive.
-Under their leadership, AIM has strengthened its efforts in providing essential services like education, healthcare, and psychosocial support. Their strategic approach and passion for the cause have been instrumental in driving the agency’s mission forward.
+                                            <p className="text-dark m-t15 mb-0"> The Executive Chairperson of the Bauchi State AHMAD IBRAHIM MUHAMMAD  (SAIKURE) is a dedicated leader focused on improving the lives of orphans and vulnerable children in Bauchi State. With a background in child welfare and community development, the Chairperson is committed to creating a safe environment where every child can thrive.
+Under their leadership, SAIKURE has strengthened its efforts in providing essential services like education, healthcare, and psychosocial support. Their strategic approach and passion for the cause have been instrumental in driving the agency’s mission forward.
 </p>
                                         </div>
                                     </div>
