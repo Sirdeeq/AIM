@@ -31,7 +31,7 @@ const FooterCommonData = ({logoImage, iconStyle}) => {
                         
                         <li><Link to={"/project"}>Project</Link></li>
                         <li><Link to={"/contact-us"}>Contact Us</Link></li>
-                        <li><Link to={"/faq"}>Faq</Link></li>
+                        {/* <li><Link to={"/faq"}>Faq</Link></li> */}
                     </ul>
                 </div>
             </div>
@@ -53,7 +53,7 @@ const FooterCommonData = ({logoImage, iconStyle}) => {
                                 :
                                 <i className="fa-solid fa-phone"></i>
                             }
-                            <span>+2348037092336</span>
+                            <span>080</span>
                         </li>
                         <li>
                             {iconStyle   ? 
@@ -61,7 +61,7 @@ const FooterCommonData = ({logoImage, iconStyle}) => {
                                 :
                                 <i className="fa fa-envelope"></i> 
                             }
-                            <span>ahmedgube@gmail.com</span>
+                            <span>saikure@support.ng</span>
                         </li>
                     </ul>
                 </div>

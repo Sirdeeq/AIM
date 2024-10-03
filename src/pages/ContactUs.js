@@ -17,10 +17,10 @@ import shape7 from "../assets/images/pattern/shape7.png";
 const cardBlog = [
   {
     title: "Call Us",
-    subtitle: "+2348037092336",
+    subtitle: "080",
     icon: "flaticon-phone-call-1",
   },
-  { title: "Email Us", subtitle: "ahmedgube@gmail.com", icon: "flaticon-email" },
+  { title: "Email Us", subtitle: "saikure@support.ng", icon: "flaticon-email" },
   {
     title: "Our Address",
     subtitle:

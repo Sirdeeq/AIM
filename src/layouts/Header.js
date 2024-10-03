@@ -117,10 +117,10 @@ const Header = () => {
               <div className="dz-topbar-right">
                 <ul>
                   <li>
-                    <i className="fas fa-map-marker-alt"></i> +2348037092336
+                    <i className="fas fa-map-marker-alt"></i> 080
                   </li>
                   <li>
-                    <i className="fas fa-envelope"></i>ahmedgube@gmail.com
+                    <i className="fas fa-envelope"></i>saikure@support.ng
                   </li>
                 </ul>
               </div>
