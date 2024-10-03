@@ -17,14 +17,14 @@ import shape7 from "../assets/images/pattern/shape7.png";
 const cardBlog = [
   {
     title: "Call Us",
-    subtitle: "+234-091-3312",
+    subtitle: "+2348037092336",
     icon: "flaticon-phone-call-1",
   },
-  { title: "Email Us", subtitle: "support@basovca.gov.ng", icon: "flaticon-email" },
+  { title: "Email Us", subtitle: "ahmedgube@gmail.com", icon: "flaticon-email" },
   {
     title: "Our Address",
     subtitle:
-      "Former Board of Internal Revenue Office, Opposite Bauchi State Treasury Division, Bauchi",
+      "N0. 3 MADINA LINK BADAWA LAYOUT ",
     icon: "flaticon-pin",
   },
 ];

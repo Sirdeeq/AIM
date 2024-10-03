@@ -117,10 +117,10 @@ const Header = () => {
               <div className="dz-topbar-right">
                 <ul>
                   <li>
-                    <i className="fas fa-map-marker-alt"></i> +234-091-3312
+                    <i className="fas fa-map-marker-alt"></i> +2348037092336
                   </li>
                   <li>
-                    <i className="fas fa-envelope"></i>support@SAIKURE.com
+                    <i className="fas fa-envelope"></i>ahmedgube@gmail.com
                   </li>
                 </ul>
               </div>

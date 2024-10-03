@@ -45,7 +45,7 @@ const FooterCommonData = ({logoImage, iconStyle}) => {
                                 :  
                                 <i className="fas fa-map-marker-alt"></i>
                             }
-                            <span>Former Board of internal Revenue Office, Opposite Bauchi State Treasury Division</span>
+                            <span>N0. 3 MADINA LINK BADAWA LAYOUT </span>
                         </li>
                         <li>
                             {iconStyle   ? 
@@ -53,7 +53,7 @@ const FooterCommonData = ({logoImage, iconStyle}) => {
                                 :
                                 <i className="fa-solid fa-phone"></i>
                             }
-                            <span>+234</span>
+                            <span>+2348037092336</span>
                         </li>
                         <li>
                             {iconStyle   ? 
@@ -61,7 +61,7 @@ const FooterCommonData = ({logoImage, iconStyle}) => {
                                 :
                                 <i className="fa fa-envelope"></i> 
                             }
-                            <span>support@gmail.com</span>
+                            <span>ahmedgube@gmail.com</span>
                         </li>
                     </ul>
                 </div>
