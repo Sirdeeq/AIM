@@ -103,9 +103,9 @@ const Faq = () => {
                                             <div id="collapseTwo1" className="accordion-collapse" eventKey={index}>
                                                 <Accordion.Body>
                                                     <p className="m-b0">
-                                                        {index === 0 && "Ahmad's vision is to create a more inclusive, transparent, and people-oriented leadership in Tarauni, focusing on addressing key challenges such as unemployment, healthcare, and infrastructure."}
-                                                        {index === 1 && "Empowering vulnerable groups is central to Ahmad's strategy. He has consistently worked with orphans, vulnerable children, and marginalized women, ensuring they receive skills training and support."}
-                                                        {index === 2 && "With years of experience in social development, Ahmad's leadership is rooted in his ability to connect with the community and understand their needs. His previous empowerment programs are a testament to his dedication."}
+                                                        {index === 0 && "Ahmad Ibrahim Muhammad&apos;s vision for Tarauni focuses on community-driven solutions, improving local infrastructure, ensuring quality education, and empowering the most vulnerable members of society through targeted programs."}
+                                                        {index === 1 && "Ahmad has successfully conducted empowerment programs for vulnerable groups in 2022 and 2023, providing essential skills and resources to orphans, vulnerable children, and women. His commitment to uplifting the community is unwavering."}
+                                                        {index === 2 && "With a proven track record of community leadership and social impact, Ahmad&apos;s experience in public service and grassroots initiatives makes him an ideal candidate to lead Tarauni towards sustainable growth and inclusivity."}
                                                     </p>
                                                 </Accordion.Body>
                                             </div>
