@@ -45,7 +45,7 @@ const FooterCommonData = ({logoImage, iconStyle}) => {
                                 :  
                                 <i className="fas fa-map-marker-alt"></i>
                             }
-                            <span>N0. 3 MADINA LINK BADAWA LAYOUT </span>
+                            <span>XGGP+9HQ, Zoo Rd, Albasa, Kano 700101, Kano</span>
                         </li>
                         <li>
                             {iconStyle   ? 
