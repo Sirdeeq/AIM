@@ -93,10 +93,15 @@ const ContactUs = () => {
         <section className="content-inner map-wrapper1">
           <div className="container-fluid">
             <div className="map-iframe style-1">
-            {/* <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3902.978823238272!2d8.5339186744555!3d11.975967088255302!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x11ae81afd56ae39b%3A0x33ab3210206cef86!2sGEZAWAD%20COMMUNICATION!5e0!3m2!1sen!2sng!4v1728000046534!5m2!1sen!2sng" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-            </div> */}
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3902.978823238272!2d8.5339186744555!3d11.975967088255302!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x11ae81afd56ae39b%3A0x33ab3210206cef86!2sGEZAWAD%20COMMUNICATION!5e0!3m2!1sen!2sng!4v1728000046534!5m2!1sen!2sng" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-              </div>
+              <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3902.978823238272!2d8.5339186744555!3d11.975967088255302!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x11ae81afd56ae39b%3A0x33ab3210206cef86!2sGEZAWAD%20COMMUNICATION!5e0!3m2!1sen!2sng!4v1728000046534!5m2!1sen!2sng"
+                width="600"
+                height="450"
+                style={{ border: "0" }}
+                allowFullScreen
+                loading="lazy"
+                referrerPolicy="no-referrer-when-downgrade"
+              ></iframe>  </div>
             <div className="row justify-content-end">
               <div className="col-xl-6 col-lg-8 col-sm-12">
                 <div className="contact-info form-wrapper style-1">
